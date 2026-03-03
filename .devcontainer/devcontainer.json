@@ -1,0 +1,11 @@
+{
+  "name": "GH300-Skills-AccelerateDevGHCopilot",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-dotnettools.csdevkit",
+        "ms-dotnettools.csharp"
+      ]
+    }
+  }
+}
